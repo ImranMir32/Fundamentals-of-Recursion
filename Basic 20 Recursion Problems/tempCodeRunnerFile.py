@@ -1,0 +1,1 @@
+mx = max(mx, array[start])
