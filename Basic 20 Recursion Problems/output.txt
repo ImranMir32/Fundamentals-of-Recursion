@@ -1,2 +1,1 @@
-The Factorial of 5  is :
-120
+This value doesn't exits in the array
